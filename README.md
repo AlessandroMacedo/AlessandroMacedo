@@ -5,7 +5,7 @@ Vamos criar o futuro juntos! 🤖💻✨
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="ale-rasp"  src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/0b71b76f-4794-4bf5-806b-0d03064eb6c4">
+  <img align="center" alt="ale-rasp"  height="50" width="50" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/0b71b76f-4794-4bf5-806b-0d03064eb6c4">
   
   <img align="center" alt="ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
