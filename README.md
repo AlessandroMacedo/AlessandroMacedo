@@ -5,7 +5,7 @@ Vamos criar o futuro juntos! 🤖💻✨
 
 <div style="display: inline_block"><br>
   
-  <img align="center" height="30" width="40" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/a40ae72d-030c-43f1-87f5-e4f7faac57e3">
+  <img align="center" alt="ale-rasp" height="30" width="40" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/0b71b76f-4794-4bf5-806b-0d03064eb6c4">
   
   <img align="center" alt="ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
@@ -13,9 +13,13 @@ Vamos criar o futuro juntos! 🤖💻✨
   
   <img align="center" alt="ale-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="center" alt="ale-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="ale-ardu" height="30" width="40" src="">
+  <img align="center" alt="ale-esp32" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
   
+  <img align="center" alt="ale-ardu" height="30" width="40" src="">
+
+  <img align="center" alt="ale-rasp" height="30" width="40" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/a40ae72d-030c-43f1-87f5-e4f7faac57e3">
+
 
 </div>
 
