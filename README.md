@@ -1,12 +1,9 @@
-### Olá pessoal!👋 
-### me chamo Alessandro Macedo, Desenvolvedor de projetos de robótica e programação, apaixonado por inovação tecnológica. 🚀💡
+### Olá pessoal, me chamo Alessandro Macedo, Desenvolvo projetos de robótica e programação, apaixonado por inovação tecnológica. 🚀💡
 Vamos criar o futuro juntos! 🤖💻✨ 
 
 
 <div style="display: inline_block"><br>
-  
- 
-  
+    
   <img align="center" alt="ale-HTML" height="38" width="36" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/352aa17e-177f-4f62-b872-d6da64591e9b">
   
   <img align="center" alt="ale-CSS" height="38" width="36" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/34d99b5f-08af-47ce-801e-be0ad94bb2de">
