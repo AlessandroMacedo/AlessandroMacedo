@@ -7,11 +7,11 @@ Vamos criar o futuro juntos! 🤖💻✨
   
  
   
-  <img align="center" alt="ale-HTML" height="38" width="38" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/352aa17e-177f-4f62-b872-d6da64591e9b">
+  <img align="center" alt="ale-HTML" height="38" width="36" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/352aa17e-177f-4f62-b872-d6da64591e9b">
   
-  <img align="center" alt="ale-CSS" height="38" width="38" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/34d99b5f-08af-47ce-801e-be0ad94bb2de">
+  <img align="center" alt="ale-CSS" height="38" width="36" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/34d99b5f-08af-47ce-801e-be0ad94bb2de">
   
-  <img align="center" alt="ale-js" height="38" width="38" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/9b500323-a5d4-4c8c-8334-4f83b7118fdd">
+  <img align="center" alt="ale-js" height="38" width="36" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/9b500323-a5d4-4c8c-8334-4f83b7118fdd">
   
   <img align="center" alt="ale-python" height="38" width="36" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/1ad62539-355d-4091-b077-4c4e41056a3f">
 
