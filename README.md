@@ -18,7 +18,7 @@ Vamos criar o futuro juntos! 🤖💻✨
   
   <img align="center" alt="ale-ardu" height="30" width="40" src="">
 
-  <img align="center" alt="esp-8266" height="40" width="60" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/55472414-05c9-49d6-942d-046dd38ff653">
+  <img align="center" alt="esp-8266" height="30" width="40" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/55472414-05c9-49d6-942d-046dd38ff653">
 
 
 </div>
