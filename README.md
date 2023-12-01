@@ -16,7 +16,7 @@ Vamos criar o futuro juntos! 🤖💻✨
   <img align="center" alt="ale-esp32" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
   
-  <img align="center" alt="ale-ardu" height="39" width="41" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/2c53f4e5-7e1d-4224-a345-2c548bb8185f">
+  <img align="center" alt="ale-ardu" height="41" width="41" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/2c53f4e5-7e1d-4224-a345-2c548bb8185f">
 
   <img align="center" alt="esp-8266" height="38" width="38" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/55472414-05c9-49d6-942d-046dd38ff653">
   
