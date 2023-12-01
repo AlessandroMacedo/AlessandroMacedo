@@ -12,7 +12,7 @@ Vamos criar o futuro juntos! 🤖💻✨
   
   <img align="center" alt="ale-python" height="37" width="36" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/1ad62539-355d-4091-b077-4c4e41056a3f">
 
-  <img align="center" alt="ale-c" height="37" width="36" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/fe333323-9475-4f8a-92aa-ebe1e6f96bf1">
+  <img align="center" alt="ale-c" height="37" width="35" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/fe333323-9475-4f8a-92aa-ebe1e6f96bf1">
 
   
   <img align="center" alt="ale-ardu" height="37" width="40" src="https://github.com/AlessandroMacedo/AlessandroMacedo/assets/49279712/2c53f4e5-7e1d-4224-a345-2c548bb8185f">
